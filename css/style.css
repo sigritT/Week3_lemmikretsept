@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap');
+ 
+body {
+    background-color: pink;
+}
+ 
+.pealkiri {
+    margin: 0 auto;
+    text-align:center;
+ 
+}
+ 
+.salat {
+    color: black;
+    font-family: 'Ewert', cursive;
+    font-size: 5rem;
+ 
+}
+ 
+.pilt {
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 30%;
+ 
+}
+ 
+.koostisosad {
+    border: 3px solid black;
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+ 
+.koostisainete table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+ 
+.valmistamine {
+    border: 3px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+ 
+.valmistamine ol {
+    margin: 0 auto;
+    width: 75%;
+}
